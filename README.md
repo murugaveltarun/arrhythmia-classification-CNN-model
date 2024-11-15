@@ -45,7 +45,7 @@ The model comprises:
 3. Model training.
 4. Evaluation on unseen data (testing data).
 
-![block diagram (or) workflow](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/5eba2d5d4313f5f5003bce8b75970c5188ae1cab/block.png)
+![block diagram (or) workflow](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/4c8c1e533ebd50f93fe778fcffcfde4b183c6adb/img/block.png)
 
 ---
 
@@ -53,4 +53,4 @@ The model comprises:
 
 This model achieved a 99.32% validation accuracy.
 
-![results](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/5eba2d5d4313f5f5003bce8b75970c5188ae1cab/res.png)
+![results](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/4c8c1e533ebd50f93fe778fcffcfde4b183c6adb/img/res.png)
