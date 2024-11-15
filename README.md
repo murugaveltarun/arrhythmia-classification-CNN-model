@@ -53,4 +53,4 @@ The model comprises:
 
 This model achieved a 99.32% validation accuracy.
 
-![results]([res.png](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/5eba2d5d4313f5f5003bce8b75970c5188ae1cab/res.png)
+![results](https://github.com/murugaveltarun/arrhythmia-classification-CNN-model/blob/5eba2d5d4313f5f5003bce8b75970c5188ae1cab/res.png)
